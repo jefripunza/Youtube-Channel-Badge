@@ -8,3 +8,9 @@ https://jefripunza-youtube-channel-badge.vercel.app/api/comments
 https://jefripunza-youtube-channel-badge.vercel.app/api/videos
 
 https://shields.io/endpoint
+
+//kumpulan badge sosial media
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+//badge value
+https://github.com/Naereen/badges
