@@ -1,0 +1,8 @@
+{
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "https://github.com/jefripunza/youtube-channel-badge"
+      }
+    ]
+  }
