@@ -1,0 +1,10 @@
+https://github.com/ntec-io/Youtube-Channel-Badge
+
+https://vercel.com/jefripunza/
+
+https://jefripunza-youtube-channel-badge.vercel.app/api/subscriber
+https://jefripunza-youtube-channel-badge.vercel.app/api/views
+https://jefripunza-youtube-channel-badge.vercel.app/api/comments
+https://jefripunza-youtube-channel-badge.vercel.app/api/videos
+
+https://shields.io/endpoint
